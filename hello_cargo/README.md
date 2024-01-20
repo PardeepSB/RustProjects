@@ -30,6 +30,7 @@ It is much faster than ```cargo build``` because it skips the step of producing 
 * Build a project using ```cargo build```
 * Build and run a project in one step using ```cargo run```
 * Build a project without producing binary to check for errors using ```cargo check```
+* Build documentation provided by all your dependencies locally using ```cargo doc --open```
 * Build result is stored in the *target/debug*
 
 # Building for Release
